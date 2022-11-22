@@ -1,0 +1,15 @@
+<option value="Babag">Babag</option>
+<option value="Cagawasan">Cagawasan</option>
+<option value="Cagawitan">Cagawitan</option>
+<option value="Caluasan">Caluasan</option>
+<option value="Candelaria">Candelaria</option>
+<option value="Can-oling">Can-oling</option>
+<option value="Estaca">Estaca</option>
+<option value="La Esperanza">La Esperanza</option>
+<option value="Mahayag">Mahayag</option>
+<option value="Malitbog">Malitbog</option>
+<option value="Poblacion">Poblacion</option>
+<option value="San Miguel">San Miguel</option>
+<option value="San Vicente">San Vicente</option>
+<option value="Santa Cruz">Santa Cruz</option>
+<option value="Villa Aurora">Villa Aurora</option>

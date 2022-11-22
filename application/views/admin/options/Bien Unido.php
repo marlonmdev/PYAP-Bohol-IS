@@ -1,0 +1,15 @@
+<option value="Bilangbilangan Dako">Bilangbilangan Dako</option>
+<option value="Bilangbilangan Diot">Bilangbilangan Diot</option>
+<option value="Hingotanan East">Hingotanan East</option>
+<option value="Hingotanan West">Hingotanan West</option>
+<option value="Liberty">Liberty</option>
+<option value="Malingin">Malingin</option>
+<option value="Mandawa">Mandawa</option>
+<option value="Maomawan">Maomawan</option>
+<option value="Nueva Esperanza">Nueva Esperanza</option>
+<option value="Nueva Estrella">Nueva Estrella</option>
+<option value="Pinamgo">Pinamgo</option>
+<option value="Poblacion">Poblacion</option>
+<option value="Puerto San Pedro">Puerto San Pedro</option>
+<option value="Sagasa">Sagasa</option>
+<option value="Tuboran">Tuboran</option>

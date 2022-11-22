@@ -1,0 +1,15 @@
+<option value="Aloja">Aloja</option>
+<option value="Behind The Clouds (San Jose)">Behind The Clouds (San Jose)</option>
+<option value="Cabacnitan">Cabacnitan</option>
+<option value="Cambacay">Cambacay</option>
+<option value="Cantigdas">Cantigdas</option>
+<option value="Garcia">Garcia</option>
+<option value="Janlud">Janlud</option>
+<option value="Poblacion Norte">Poblacion Norte</option>
+<option value="Poblacion Sur">Poblacion Sur</option>
+<option value="Poblacion Vieja">Poblacion Vieja</option>
+<option value="Quezon">Quezon</option>
+<option value="Quirino">Quirino</option>
+<option value="Rizal">Rizal</option>
+<option value="Rosariohan">Rosariohan</option>
+<option value="Santa Cruz">Santa Cruz</option>

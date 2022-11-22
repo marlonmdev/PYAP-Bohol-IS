@@ -1,0 +1,17 @@
+<option value="Buenaventura">Buenaventura</option>
+<option value="Cambanac">Cambanac</option>
+<option value="Dasitam">Dasitam</option>
+<option value="Guiwanon">Guiwanon</option>
+<option value="Landican">Landican</option>
+<option value="Laya">Laya</option>
+<option value="Libertad">Libertad</option>
+<option value="Montana">Montana</option>
+<option value="Pamilacan">Pamilacan</option>
+<option value="Payahan">Payahan</option>
+<option value="Poblacion">Poblacion</option>
+<option value="San Isidro">San Isidro</option>
+<option value="San Roque">San Roque</option>
+<option value="San Vicente">San Vicente</option>
+<option value="Santa Cruz">Santa Cruz</option>
+<option value="Taguihon">Taguihon</option>
+<option value="Tanday">Tanday</option>

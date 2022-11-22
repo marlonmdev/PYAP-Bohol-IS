@@ -1,0 +1,14 @@
+<option value="De La Paz">De La Paz</option>
+<option value="Fatima">Fatima</option>
+<option value="Loreto">Loreto</option>
+<option value="Lourdes">Lourdes</option>
+<option value="Malayo Norte">Malayo Norte</option>
+<option value="Malayo Sur">Malayo Sur</option>
+<option value="Monserrat">Monserrat</option>
+<option value="New Lourdes">New Lourdes</option>
+<option value="Patrocinio">Patrocinio</option>
+<option value="Poblacion">Poblacion</option>
+<option value="Rosario">Rosario</option>
+<option value="Salvador">Salvador</option>
+<option value="San Roque">San Roque</option>
+<option value="Upper De La Paz">Upper De La Paz</option>

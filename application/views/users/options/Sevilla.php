@@ -1,0 +1,13 @@
+<option value="Bayawahan">Bayawahan</option>
+<option value="Cabancalan">Cabancalan</option>
+<option value="Calinga-an">Calinga-an</option>
+<option value="Calinginan Norte">Calinginan Norte</option>
+<option value="Calinginan Sur">Calinginan Sur</option>
+<option value="Cambagui">Cambagui</option>
+<option value="Ewon">Ewon</option>
+<option value="Guinob-an">Guinob-an</option>
+<option value="Lagtangan">Lagtangan</option>
+<option value="Licolico">Licolico</option>
+<option value="Lobgob">Lobgob</option>
+<option value="Magsaysay">Magsaysay</option>
+<option value="Poblacion">Poblacion</option>

@@ -1,0 +1,15 @@
+<option value="Cabatang">Cabatang</option>
+<option value="Cagongcagong">Cagongcagong</option>
+<option value="Cambaol">Cambaol</option>
+<option value="Cayacay">Cayacay</option>
+<option value="Del Monte">Del Monte</option>
+<option value="Katipunan">Katipunan</option>
+<option value="La Hacienda">La Hacienda</option>
+<option value="Mahayag">Mahayag</option>
+<option value="Napo">Napo</option>
+<option value="Pagahat">Pagahat</option>
+<option value="Poblacion (Calingganay)">Poblacion (Calingganay)</option>
+<option value="Progreso">Progreso</option>
+<option value="Putlongcam">Putlongcam</option>
+<option value="Sudlon">Sudlon</option>
+<option value="Untaga">Untaga</option>

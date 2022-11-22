@@ -1,0 +1,12 @@
+<option value="Abehilan">Abehilan</option>
+<option value="Baryong Daan">Baryong Daan</option>
+<option value="Baunos">Baunos</option>
+<option value="Cabanugan">Cabanugan</option>
+<option value="Caimbang">Caimbang</option>
+<option value="Cambansag">Cambansag</option>
+<option value="Candungao">Candungao</option>
+<option value="Cansague Norte">Cansauge Norte</option>
+<option value="Cansague Sur">Cansague Sur</option>
+<option value="Causwagan Sur">Causwagan Sur</option>
+<option value="Masonoy">Masonoy</option>
+<option value="Poblacion">Poblacion</option>

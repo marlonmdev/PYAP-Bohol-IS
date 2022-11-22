@@ -1,0 +1,10 @@
+<option value="Bil-isan">Bil-isan</option>
+<option value="Bolod">Bolod</option>
+<option value="Danao">Danao</option>
+<option value="Doljo">Doljo</option>
+<option value="Libaong">Libaong</option>
+<option value="Looc">Looc</option>
+<option value="Lourdes">Lourdes</option>
+<option value="Poblacion">Poblacion</option>
+<option value="Tangnan">Tangnan</option>
+<option value="Tawala">Tawala</option>

@@ -1,0 +1,10 @@
+<option value="Abucay Norte">Abucay Norte</option>
+<option value="Abucay Sur">Abucay Sur</option>
+<option value="Badiang">Badiang</option>
+<option value="Bahaybahay">Bahaybahay</option>
+<option value="Cambuac Norte">Cambuac Norte</option>
+<option value="Cambuac Sur">Cambuac Sur</option>
+<option value="Canagong">Canagong</option>
+<option value="Libjo">Libjo</option>
+<option value="Poblacion I">Poblacion I</option>
+<option value="Poblacion II">Poblacion II</option>

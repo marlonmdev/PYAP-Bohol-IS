@@ -1,0 +1,16 @@
+<option value="Almaria">Almaria</option>
+<option value="Bacong">Bacong</option>
+<option value="Badiang">Badiang</option>
+<option value="Buenasuerte">Buenasuerte</option>
+<option value="Candabong">Candabong</option>
+<option value="Casica">Casica</option>
+<option value="Katipunan">Katipunan</option>
+<option value="Linawan">Linawan</option>
+<option value="Lundag">Lundag</option>
+<option value="Poblacion">Poblacion</option>
+<option value="Santa Cruz">Santa Cruz</option>
+<option value="Suba">Suba</option>
+<option value="Talisay">Talisay</option>
+<option value="Tanod">Tanod</option>
+<option value="Tawid">Tawid</option>
+<option value="Virgen">Virgen</option>

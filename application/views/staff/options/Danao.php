@@ -1,0 +1,17 @@
+<option value="Cabatuan">Cabatuan</option>
+<option value="Cantubod">Cantubod</option>
+<option value="Carbon">Carbon</option>
+<option value="Concepcion">Concepcion</option>
+<option value="Dagohoy">Dagohoy</option>
+<option value="Hibale">Hibale</option>
+<option value="Magtangtang">Magtangtang</option>
+<option value="Nahud">Nahud</option>
+<option value="Poblacion">Poblacion</option>
+<option value="Remedios">Remedios</option>
+<option value="San Carlos">San Carlos</option>
+<option value="San Miguel">San Miguel</option>
+<option value="Santa Fe">Santa Fe</option>
+<option value="Santo Niño">Santo Niño</option>
+<option value="Tabok">Tabok</option>
+<option value="Taming">Taming</option>
+<option value="Villa Anunciado">Villa Anunciado</option>

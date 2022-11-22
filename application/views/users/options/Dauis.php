@@ -1,0 +1,12 @@
+<option value="Biking">Biking</option>
+<option value="Bingag">Bingag</option>
+<option value="Catarman">Catarman</option>
+<option value="Dao">Dao</option>
+<option value="Mariveles">Mariveles</option>
+<option value="Mayacabac">Mayacabac</option>
+<option value="Poblacion">Poblacion</option>
+<option value="San Isidro (Canlongon)">San Isidro (Canlongon)</option>
+<option value="Songculan">Songculan</option>
+<option value="Tabalong">Tabalong</option>
+<option value="Tinago">Tinago</option>
+<option value="Totolan">Totolan</option>
